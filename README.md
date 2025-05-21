@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Qbooo
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qbooo&show_icons=true&theme=default)
 
 ---
 
