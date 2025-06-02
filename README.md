@@ -35,7 +35,7 @@
 | [운동일기짱](https://github.com/uchunc/routinecareproject) |  로그인 및 프로필 페이지 구현 | Flutter, FireBase | 2024.09 - 2024.11 | 운동기록과 공유를 위한 앱 |
 | ROBOBUDDY | 데이터 수집 및 전처리 | Python | 2024.09 ~ 2024.11 | 한성대학교 온캠퍼스 인턴십, BeautifulSoup을 이용한 정적 웹 사이트 크롤링 및 데이터 전처리 |
 | 세이렌 | 안드로이드 앱 개발자 | Java, Android Studio | 2022.03 ~ 2022.08 | 2022 프로보노 ICT멘토링 공모전, 음성 인식 자막 앱 개발 |
-| [Aura](https://github.com/HSU-SCOPE-capstone2025) | 백엔드/클라우드/데이터베이스 설계 | Spring Boot, AWS, Docker, Python, MySQL | 2025.03 ~ 2025.05 | 한성대학교 캡스톤 디자인, sns 인플루언서 데이터 크롤링 및 DB 설계, 클라우드 아키택쳐 구축, Rest-api 개발 |
+| [Scope](https://github.com/HSU-SCOPE-capstone2025) | 백엔드/클라우드/데이터베이스 설계 | Spring Boot, AWS, Docker, Python, MySQL | 2025.03 ~ 2025.05 | 한성대학교 캡스톤 디자인, sns 인플루언서 데이터 크롤링 및 DB 설계, 클라우드 아키택쳐 구축, Rest-api 개발 |
 
 ---
 
